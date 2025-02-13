@@ -3,20 +3,19 @@ body {
 }
 
 #bar {
-    background-color: rgb(167, 64, 141);
+    background-color: rgb(234, 120, 181);
     text-align: center;
     color:white;
     padding:1px;
     margin:10px;
     clear:both; 
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #main-nav {
     background-color:white;
     text-align:center;
     color:rgb(240, 148, 197);
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 #main-nav li {
@@ -28,6 +27,7 @@ body {
     background-color:rgb(240, 148, 197);
     color:white;
 }
+
 
 
 #main-nav ul ul{
@@ -62,13 +62,12 @@ a {
 }
 
 .content-box{
-    background-color: rgb(171, 102, 156);
-    color:rgba(255, 255, 255, 0.868);
+    background-color: rgb(194, 121, 178);
+    color:black;
     border: 2px solid black; 
     padding:10px;
     border-radius: 15px;
     margin: 10px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #rules {
@@ -81,13 +80,12 @@ a {
     border-radius:15px;
     color:rgba(255, 255, 255, 0.793);
     padding:15px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
 .main-container {
     width: 100%;
-    height:50%;
+    height:100%;
     padding:5px;
     margin-bottom:5px;
 }
